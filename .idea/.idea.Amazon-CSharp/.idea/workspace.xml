@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cba6840-72e8-4bef-bf69-f5134cbc7be4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DE66FF1-1FCB-4513-8463-255B392B032B/75/ed330b13/Match.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/BookInfo.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/PageObject.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/Book.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/HomePage.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/SearchPage.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Logger.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/CheckedBook.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/BookInfoPage.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/PageScraper.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Tests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iGVqe1kD9Btpm06iGfVBKXqPQE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cba6840-72e8-4bef-bf69-f5134cbc7be4" name="Default Changelist" comment="" />
+      <created>1601534109293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601534109293</updated>
+      <workItem from="1601534114200" duration="119000" />
+      <workItem from="1601534248646" duration="15812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601543523607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601543523607" />
+  </component>
+</project>

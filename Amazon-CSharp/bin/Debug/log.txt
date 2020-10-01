@@ -1,0 +1,4 @@
+[ 1:53:46 PM] [INFO] BookObject{name='Effective Java', author='Joshua Bloch (Author)', bestSeller=True} : BookObject{name='Head First Java, 2nd Edition', author='Kathy Sierra (Author),Bert Bates (Author)', bestSeller=True}
+
+[ 1:53:46 PM] [INFO] BookObject{name='Head First Java, 2nd Edition', author='Kathy Sierra (Author),Bert Bates (Author)', bestSeller=True} : BookObject{name='Head First Java, 2nd Edition', author='Kathy Sierra (Author),Bert Bates (Author)', bestSeller=True}
+
