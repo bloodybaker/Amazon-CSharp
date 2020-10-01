@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cba6840-72e8-4bef-bf69-f5134cbc7be4" name="Default Changelist" comment="" />
+    <list default="true" id="4cba6840-72e8-4bef-bf69-f5134cbc7be4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Amazon-CSharp/Pages/CheckedBook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon-CSharp/Pages/CheckedBook.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5DE66FF1-1FCB-4513-8463-255B392B032B/75/ed330b13/Match.cs" root0="SKIP_HIGHLIGHTING" />
@@ -19,14 +24,15 @@
         <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/HomePage.cs" />
         <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/SearchPage.cs" />
         <option value="$PROJECT_DIR$/Amazon-CSharp/Logger.cs" />
-        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/CheckedBook.cs" />
         <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/BookInfoPage.cs" />
         <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/PageScraper.cs" />
         <option value="$PROJECT_DIR$/Amazon-CSharp/Tests.cs" />
+        <option value="$PROJECT_DIR$/Amazon-CSharp/Pages/CheckedBook.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1iGVqe1kD9Btpm06iGfVBKXqPQE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601534109293</updated>
       <workItem from="1601534114200" duration="119000" />
-      <workItem from="1601534248646" duration="15812000" />
+      <workItem from="1601534248646" duration="16396000" />
     </task>
     <servers />
   </component>
@@ -58,6 +64,14 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="822" y="417" key="Github.ShareDialog" timestamp="1601550184230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="822" y="417" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601550184230" />
+    <state x="585" y="225" key="Github.UntrackedFilesDialog" timestamp="1601550191388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601550191388" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601543523607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

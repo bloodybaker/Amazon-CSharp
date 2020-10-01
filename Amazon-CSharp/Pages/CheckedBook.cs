@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Amazon_CSharp;
+﻿using System.Collections.Generic;
 using NSelene;
 
 namespace FirstTestProject.Pages
